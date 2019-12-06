@@ -15,5 +15,5 @@ Repo Link : https://github.com/chetankudaravalli16/mvc-app
 
 - Credits:
 
-Section 04-Group 01- Code used to implement tables
-Section 01-Group 01 - Logo
+1) Section 04-Group 01- Code used to implement tables
+1) Section 01-Group 01 - Logo
