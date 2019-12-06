@@ -12,3 +12,6 @@ Group -05
 ![](Capture.PNG)
 
 Repo Link : https://github.com/chetankudaravalli16/mvc-app
+
+- Credits:
+Chinmayi - Code used to implement tables
