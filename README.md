@@ -29,5 +29,5 @@ Group -05
 
 ## Credits:
 
-1) Section 04-Group 01- Code used to implement tables
-1) Section 01-Group 01 - Logo
+1) [Section 04-Group 01](https://chinmayi98.github.io/help-app/)- Code used to implement tables
+1) [Section 01-Group 01](https://cweltonsmith.github.io/pbl-website/index.html) - Logo
